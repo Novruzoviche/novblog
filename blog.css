@@ -1,4 +1,12 @@
 /* stylelint-disable selector-list-comma-newline-after */
+.sosyalbar{
+    font-size: 2rem;
+}
+.sosyalbar:hover{
+  color: black;
+}
+
+
 .mvuki{
   background-image: url(../assets/imgs/mvuki.jpg);
   background-position: center;
